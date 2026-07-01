@@ -1,0 +1,58 @@
+canonical_identifier: bkk:krp/KR6k0148/X/v1
+canonical_location: https://kanripo.org/bkk/KR6k0148/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 四分戒本緣起事義
+  identifiers:
+    krp: KR6k0148
+    cbeta: X40n0716
+    cbeta_old_id: X40n0716
+    authorityid: CA0002787
+    json_key: X0716
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X40/X40n0716.xml
+    old_id: X40n0716
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0148_000-X.yaml, hash: 'sha256:722b2e7c1176def45c83169d4511431b79050636783abbce04d370290513522c'}
+  - {seq: 1, filename: KR6k0148_001-X.yaml, hash: 'sha256:f83a260576ce8afb003a697421267de56fa9a508ef3f8f08fd75c3b7931d544c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0148_000-X.markers.yaml, hash: 'sha256:7efa50529901ed52b54d5535772cd59d2ab3dc0119af8d4e0c3f1c7a4b6f80eb'}
+  - {seq: 1, role: markers, filename: assets/KR6k0148_001-X.markers.yaml, hash: 'sha256:bc5054ee5e7bce8af3c1c5076c21a97acbb08f90cff07d4011ae1787f8e54e14'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6k0148_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 引
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0148_X_000-mulu-2
+    span:
+    - front
+    - 332
+    - 332
+  label: 四分戒本緣起事義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0148_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 13162
+  label: 四分戒本緣起事義
+  type: juan
+  level: 1
+hash: sha256:fc68cfa2a4bb0d7e704b61f122b08ee21d54172c2e7269bdeb8b545d4342f76c
