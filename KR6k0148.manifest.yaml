@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6k0148_000.yaml, hash: 'sha256:700dbd223feaf9cb076c908cdf4a918ae47010a41ad332a23bdf48c150492c51'}
-  - {seq: 1, filename: KR6k0148_001.yaml, hash: 'sha256:fdf97363e5acff3f6eb35a39cc00a0fc7162b602939e4f8d656ff6a4ba7c2bdd'}
+  - {seq: 0, filename: KR6k0148_000.yaml, hash: 'sha256:722b2e7c1176def45c83169d4511431b79050636783abbce04d370290513522c'}
+  - {seq: 1, filename: KR6k0148_001.yaml, hash: 'sha256:f83a260576ce8afb003a697421267de56fa9a508ef3f8f08fd75c3b7931d544c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6k0148_000.markers.yaml, hash: 'sha256:6327b4f8146c4bd3ab0282607976eef04bc883b1a7a537ecbbf5018e6b0a2642'}
-  - {seq: 1, role: markers, filename: assets/KR6k0148_001.markers.yaml, hash: 'sha256:1ba9f1ca59ca4e50a4cc7c4f8b8d4827f4df03a4001f9dfdd4485173e69d74b5'}
+  - {seq: 0, role: markers, filename: assets/KR6k0148_000.markers.yaml, hash: 'sha256:c51fd260b5fa5b9fff4bbc9f73fc5d937d25e84bf376da095e1a0f40e3c4a5d8'}
+  - {seq: 1, role: markers, filename: assets/KR6k0148_001.markers.yaml, hash: 'sha256:8c35f88a1a8b93e7f6a027b04d61eb53ca5c806d8d615554cfb3249d74958509'}
 table_of_contents:
 - ref:
     seq: 0
@@ -57,7 +57,4 @@ table_of_contents:
   label: 四分戒本緣起事義
   type: juan
   level: 1
-hash: sha256:7fb28459310b670f24c04d708aa38cb2aee67a06a36bab01166c15060b465828
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:8196095d26fca5b599b8db265693f1de56960c2dd47e4baafbf929a3dfe1a004
