@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6k0148_000.yaml, hash: 'sha256:53ec7e7afba5bc07baa6922c83541d635e518c037019d9a1031d051d91fd698c'}
+  - {seq: 0, filename: KR6k0148_000.yaml, hash: 'sha256:0e86466306324ef6ce6d4b954f77fb15d24eb4899c591fcaaf6de4e68b4e2acd'}
   - {seq: 1, filename: KR6k0148_001.yaml, hash: 'sha256:8afcb6967350b196f211e326924a37dc53ea3a3a9a571e1905aed0ffba8ca219'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6k0148_000.markers.yaml, hash: 'sha256:12164897a911a2bc597e6233bfc9a59241aa1b673017dedc1a2afc0be63987b6'}
+  - {seq: 0, role: markers, filename: assets/KR6k0148_000.markers.yaml, hash: 'sha256:3b269ffb6a98fdf426fe4656079fb831f47e5103c70839ecc0dd46b6b93f37a8'}
   - {seq: 1, role: markers, filename: assets/KR6k0148_001.markers.yaml, hash: 'sha256:bb30c16bc48268a80767aa2670b03d7facef033cc1e785a3643ee37fd2e93a53'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6k0148_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 引
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0148_X_000-mulu-2
     span:
-    - front
+    - body
     - 332
     - 332
   label: 四分戒本緣起事義
@@ -57,7 +57,7 @@ table_of_contents:
   label: 四分戒本緣起事義
   type: juan
   level: 1
-hash: sha256:4612187b05ce4e849fba08c1a6c8ffc5375fd72c5b31f713620de5796a1e0155
+hash: sha256:96479a1d69ba914ab55a51f1c45e57c1a698c875e2c15fd22ab4f172af9c8b7f
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
